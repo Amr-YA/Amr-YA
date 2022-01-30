@@ -11,6 +11,6 @@ Working as a planning engineer is actually what made me interested in data analy
 I'm always seeking challenging projects and new ideas.
 
 You can reach me through 
-- <a href=https://github.com/Odd-Baron/Odd-Baron>GitHub: Odd-Baron</a>
+- <a href=https://github.com/Amr-YA/>GitHub: Amr-YA</a>
 - Discord: Amr#3928
 - <a href=http://www.linkedin.com/in/amryasser>LinkedIn: /in/amryasser </a>
