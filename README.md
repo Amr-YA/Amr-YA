@@ -1,5 +1,3 @@
-###  Hey 😄
-
 You can reach me through 
 - GitHub: <a href=https://github.com/Amr-YA/>Amr-YA</a>
 - Discord: Amr#3928
